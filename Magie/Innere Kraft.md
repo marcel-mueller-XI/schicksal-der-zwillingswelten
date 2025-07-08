@@ -1,0 +1,1 @@
++ Mitglieder des [[Kult des einen Willens]] nutzen teilweise eine innere Kraft, welche ihnen besondere Kräfte geben

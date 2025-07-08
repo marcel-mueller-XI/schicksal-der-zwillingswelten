@@ -1,0 +1,6 @@
+- Bewohner sind häufig **mit Magie geboren**.
+- Magie ist **Teil des biologischen und kulturellen Gefüges**.
+- Viele Kreaturen, Orte und Technologien sind **magisch durchdrungen**.
+- Bekannte Orte: 
+	- [[Wegfels]]
+	- [[Aurealis]], Hauptstadt
