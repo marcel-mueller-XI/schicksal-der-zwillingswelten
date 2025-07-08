@@ -11,14 +11,10 @@
             "id": "335693934a0bcfa0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unbenannt/jhgufz.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "jhgufz"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -166,7 +162,7 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "335693934a0bcfa0",
+  "active": "b0a0379376574e32",
   "lastOpenFiles": [
     "Besondere Gegner/Sonstige/Shield Guardian.md",
     "Unbenannt/jhgufz.md",
