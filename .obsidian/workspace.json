@@ -157,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -165,8 +166,9 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "b0a0379376574e32",
+  "active": "335693934a0bcfa0",
   "lastOpenFiles": [
+    "Unbenannt",
     "Gruppen/Feindlich/Eisenwurzeln.md",
     "Gruppen/Freundlich/Millerstones.md",
     "Magie/Arkanzellen.md",
