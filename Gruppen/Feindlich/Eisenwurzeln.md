@@ -1,12 +1,13 @@
+## Allgemein
 Gruppierung von Druiden
-Merkmale:
+## Merkmale:
 + Nutzen moderne Technologie und [[Arkanzellen]]
 Verbündete:
 + [[Kult des einen Willens]]
-Taten:
+## Taten:
 + waren beteiligt am Angriff auf [[Wegfels]]
 + Verursachten die Gehirnerschütterung von [[Furzl]]
-Bekannte Mitglieder:
+## Bekannte Mitglieder:
 + ???
-Ziele:
+## Ziele:
 + Technologie soll in [[Luxara]] Übermacht gewinnen
