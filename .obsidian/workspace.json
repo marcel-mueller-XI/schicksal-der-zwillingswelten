@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welten/Luxara.md",
+                "file": "Magische Items/Sonstiges/Winged Boots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Luxara"
+              "title": "Winged Boots"
             }
           }
         ]
@@ -178,22 +178,36 @@
   },
   "active": "b0a0379376574e32",
   "lastOpenFiles": [
-    "Welten/Tenebris.md",
-    "Welten/Luxara.md",
-    "WegfelsMap.png",
-    "Wichtige Ereignisse/5. Die Einberufung des Rats.md",
-    "Wichtige Ereignisse/4. Die nächtliche Überraschung.md",
-    "Wichtige Ereignisse/1. Angriff des Kults auf Wegfels.md",
-    "Party/James von Millerstone.md",
-    "James on Millerstone.md",
-    "Party/Shade Vector.md",
-    "Party/Leonas Helios (der Inquisitor).md",
-    "Party/Kharad.md",
-    "Unbenannt/jhgufz.md",
-    "Besondere Gegner/Sonstige/Shield Guardian.md",
-    "Unbenannt",
-    "Gruppen/Feindlich/Eisenwurzeln.md",
+    "Magische Items/Sonstiges/Periapt of Wound Closure.md",
+    "Private/James von Millerstone.md",
+    "NPC/König von Luxara.md",
+    "NPC/Maryn.md",
+    "NPC/Manfred von Wegfels.md",
+    "NPC/Wegfels/Bormino Eisensplitter.md",
+    "NPC/Bellegir.md",
+    "NPC/Bormino Eisensplitter.md",
+    "NPC/Bob.md",
+    "Magie/Innere Kraft.md",
+    "NPC/Alrik Nornfels.md",
     "Gruppen/Freundlich/Millerstones.md",
-    "Magie/Arkanzellen.md"
+    "Gruppen/Millerstones.md",
+    "Gruppen/Kult des einen Willens.md",
+    "Gruppen/Feindlich/Kult des einen Willens.md",
+    "Gruppen/Eisenwurzeln.md",
+    "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
+    "Fights/Assassin im Gasthaus.md",
+    "Besondere Gegner/Namentlich genannte/Marth Everant.md",
+    "Besondere Gegner/Namentlich genannte/Schattendrache.md",
+    "Besondere Gegner/Iotas.md",
+    "Besondere Gegner/Marth Everant.md",
+    "Orte/Arkhos.md",
+    "Orte/Aurealis.md",
+    "Orte/Wegfels.md",
+    "Party/Brogron.md",
+    "bla bla",
+    "Wichtige Items",
+    "Fights",
+    "WegfelsMap.png",
+    "Unbenannt"
   ]
 }
