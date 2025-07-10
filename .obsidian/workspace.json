@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unbenannt.md",
+                "file": "Gruppen/Freundlich/Millerstones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unbenannt"
+              "title": "Millerstones"
             }
           }
         ]
@@ -178,8 +178,8 @@
   },
   "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
-    "Gruppen/Freundlich/Millerstones.md",
     "Unbenannt.md",
+    "Gruppen/Freundlich/Millerstones.md",
     "NPC/Wegfels/Henk.md",
     "Besondere Gegner/Sonstige/Iota.md",
     "Besondere Gegner/Namentlich genannte/Schattendrache.md",
