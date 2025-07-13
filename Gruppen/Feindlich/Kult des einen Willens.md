@@ -7,11 +7,7 @@ Verbündete:
 + [[Eisenwurzeln]]
 Taten:
 + Haben [[Wegfels]] angegriffen
-<<<<<<< HEAD
-	+ [[Schattendrache]] wurde mit [[Iota]] kontrolliert
-=======
 	+ [[Schattendrache]] wurde mit [[Iotas]] kontrolliert
->>>>>>> d38826a (Initial Commit)
 Bekannte Mitglieder
 + [[Marth Everant]]
 + [[Anführer des Kult des einen Willens]]
