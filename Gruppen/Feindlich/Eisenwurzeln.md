@@ -23,5 +23,4 @@ Taten:
 Bekannte Mitglieder:
 + ???
 Ziele:
->>>>>>> d38826a (Initial Commit)
 + Technologie soll in [[Luxara]] Übermacht gewinnen

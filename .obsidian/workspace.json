@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wichtige Items/Periapt of Health.md",
+                "file": "Gruppen/Feindlich/Kult des einen Willens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Periapt of Health"
+              "title": "Kult des einen Willens"
             }
           }
         ]
@@ -178,12 +178,16 @@
   },
   "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Wichtige Items/Periapt of Health.md",
+    "Gruppen/Feindlich/Eisenwurzeln.md",
+    "Besondere Gegner/Namentlich genannte/Schattendrache.md",
+    "Besondere Gegner/Namentlich genannte/Marth Everant.md",
+    "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
     "Gruppen/Freundlich/Millerstones.md",
+    "Fights/Assassin im Gasthaus.md",
+    "Wichtige Items/Periapt of Health.md",
+    "Untitled.md",
     "Gruppen/Kult des einen Willens.md",
     "Besondere Gegner/Sonstige/Iotas.md",
-    "Fights/Assassin im Gasthaus.md",
     "Gruppen/Eisenwurzeln.md",
     "NPC/Bob.md",
     "NPC/Manfred von Wegfels.md",
@@ -200,13 +204,9 @@
     "Unbenannt.md",
     "NPC/Wegfels/Henk.md",
     "Besondere Gegner/Sonstige/Iota.md",
-    "Besondere Gegner/Namentlich genannte/Schattendrache.md",
-    "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
-    "Besondere Gegner/Namentlich genannte/Marth Everant.md",
     "Besondere Gegner/Sonstige/Shield Guardian.md",
     "NPC/Wegfels/Rezeptionistin der Magier Gilde.md",
     "NPC/Wegfels/Meister Druide.md",
-    "NPC/Wegfels/Meister Sakorius.md",
     "bla bla",
     "WegfelsMap.png",
     "Unbenannt"
