@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 ## Lage
 + Liegt in [[Luxara]] in der Nähe der Hauptstadt [[Aurealis]]
 ## NPCs aus/in Wegfels:
+=======
++ Liegt in [[Luxara]] in der Nähe der Hauptstadt [[Aurealis]]
+NPCs aus/in Wegfels:
+>>>>>>> d38826a (Initial Commit)
 + [[Bormino Eisensplitter]]
 + [[Alrik Nornfels]]
 + [[Manfred von Wegfels]]
@@ -9,7 +14,10 @@
 
 ![[WegfelsMap.png]]
 
+<<<<<<< HEAD
 ## Locations
+=======
+>>>>>>> d38826a (Initial Commit)
 1. Burgfried
 2. ???
 3. ???

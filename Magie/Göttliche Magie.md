@@ -3,4 +3,8 @@ Göttliche Magie ist **nicht in der Welt verankert**, sondern wird von einer *
 Wird benutzt von:
 + Kleriker
 + Paladin
+<<<<<<< HEAD
 + [[Iota]]
+=======
++ [[Iotas]]
+>>>>>>> d38826a (Initial Commit)

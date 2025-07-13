@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Allgemein
 Gruppierung von Druiden
 ## Merkmale:
@@ -10,4 +11,17 @@ Verbündete:
 ## Bekannte Mitglieder:
 + ???
 ## Ziele:
+=======
+Gruppierung von Druiden
+Merkmale:
++ Nutzen moderne Technologie und [[Arkanzellen]]
+Verbündete:
++ [[Kult des einen Willens]]
+Taten:
++ waren beteiligt am Angriff auf [[Wegfels]]
++ Verursachten die Gehirnerschütterung von [[Furzl]]
+Bekannte Mitglieder:
++ ???
+Ziele:
+>>>>>>> d38826a (Initial Commit)
 + Technologie soll in [[Luxara]] Übermacht gewinnen
