@@ -11,12 +11,14 @@
             "id": "a33a81ca2ceeef7d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "WegfelsMap.png"
+                "file": "Besondere Gegner/Namentlich genannte/Klezorg Retch.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "WegfelsMap"
+              "icon": "lucide-file",
+              "title": "Klezorg Retch"
             }
           }
         ]
@@ -176,6 +178,8 @@
   },
   "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
+    "WegfelsMap.png",
+    "Besondere Gegner/Namentlich genannte/Klezorg Retch.md",
     "Wichtige Ereignisse/5. Die Einberufung des Rats.md",
     "Wichtige Ereignisse/4. Die nächtliche Überraschung.md",
     "Wichtige Ereignisse/3. Die Infiltration des Kultistenlagers.md",
@@ -200,13 +204,10 @@
     "NPC/Wegfels/Meister Druide.md",
     "NPC/Wegfels/Maryn.md",
     "NPC/Wegfels/Manfred von Wegfels.md",
-    "NPC/Wegfels/Henk.md",
-    "NPC/Wegfels/Franko.md",
     "Wichtige Items",
     "Private",
     "Fights",
     "bla bla",
-    "WegfelsMap.png",
     "Unbenannt"
   ]
 }
