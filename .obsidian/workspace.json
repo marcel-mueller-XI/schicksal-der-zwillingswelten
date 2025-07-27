@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Besondere Gegner/Namentlich genannte/Klezorg Retch.md",
+                "file": "Besondere Gegner/Namentlich genannte/Schattendrache.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Klezorg Retch"
+              "title": "Schattendrache"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
-    "WegfelsMap.png",
+    "Besondere Gegner/Namentlich genannte/Marth Everant.md",
     "Besondere Gegner/Namentlich genannte/Klezorg Retch.md",
+    "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
+    "WegfelsMap.png",
     "Wichtige Ereignisse/5. Die Einberufung des Rats.md",
     "Wichtige Ereignisse/4. Die nächtliche Überraschung.md",
     "Wichtige Ereignisse/3. Die Infiltration des Kultistenlagers.md",
@@ -203,7 +205,6 @@
     "NPC/Wegfels/Meister Sakorius.md",
     "NPC/Wegfels/Meister Druide.md",
     "NPC/Wegfels/Maryn.md",
-    "NPC/Wegfels/Manfred von Wegfels.md",
     "Wichtige Items",
     "Private",
     "Fights",
