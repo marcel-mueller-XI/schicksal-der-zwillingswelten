@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Besondere Gegner/Namentlich genannte/Schattendrache.md",
+                "file": "NPC/Wegfels/Alrik Nornfels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schattendrache"
+              "title": "Alrik Nornfels"
             }
           }
         ]
@@ -178,6 +178,13 @@
   },
   "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
+    "Magie/Arkane Magie.md",
+    "Gruppen/Freundlich/Millerstones.md",
+    "Gruppen/Feindlich/Kult des einen Willens.md",
+    "Gruppen/Feindlich/Eisenwurzeln.md",
+    "Besondere Gegner/Sonstige/Iota.md",
+    "Besondere Gegner/Sonstige/Iotas.md",
+    "Besondere Gegner/Namentlich genannte/Schattendrache.md",
     "Besondere Gegner/Namentlich genannte/Marth Everant.md",
     "Besondere Gegner/Namentlich genannte/Klezorg Retch.md",
     "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
@@ -198,13 +205,6 @@
     "Party/Brogron.md",
     "Orte/Wegfels.md",
     "Orte/Aurealis.md",
-    "Orte/Arkhos.md",
-    "NPC/Bellegir.md",
-    "NPC/König von Luxara.md",
-    "NPC/Wegfels/Rezeptionistin der Magier Gilde.md",
-    "NPC/Wegfels/Meister Sakorius.md",
-    "NPC/Wegfels/Meister Druide.md",
-    "NPC/Wegfels/Maryn.md",
     "Wichtige Items",
     "Private",
     "Fights",
