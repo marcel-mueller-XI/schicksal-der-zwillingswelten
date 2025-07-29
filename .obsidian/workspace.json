@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wichtige Ereignisse/3. Die Infiltration des Kultistenlagers.md",
+                "file": "Magie/Arkanzellen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Die Infiltration des Kultistenlagers"
+              "title": "Arkanzellen"
             }
           }
         ]
@@ -178,23 +178,24 @@
   },
   "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
+    "Magie/Arkane Magie.md",
+    "Gruppen/Feindlich/Kult des einen Willens.md",
+    "Gruppen/Feindlich/Eisenwurzeln.md",
+    "Besondere Gegner/Sonstige/Shield Guardian.md",
+    "Besondere Gegner/Sonstige/Iota.md",
+    "Besondere Gegner/Namentlich genannte/Schattendrache.md",
+    "Besondere Gegner/Namentlich genannte/Klezorg Retch.md",
+    "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
+    "Besondere Gegner/Namentlich genannte/Marth Everant.md",
+    "Wichtige Ereignisse/3. Die Infiltration des Kultistenlagers.md",
     "Wichtige Ereignisse/4. Die nächtliche Überraschung.md",
     "Wichtige Ereignisse/5. Die Einberufung des Rats.md",
     "Wichtige Ereignisse/1. Angriff des Kults auf Wegfels.md",
     "Party/Leonas Helios (der Inquisitor).md",
     "NPC/Wegfels/Alrik Nornfels.md",
-    "Magie/Arkane Magie.md",
     "Gruppen/Freundlich/Millerstones.md",
-    "Gruppen/Feindlich/Kult des einen Willens.md",
-    "Gruppen/Feindlich/Eisenwurzeln.md",
-    "Besondere Gegner/Sonstige/Iota.md",
     "Besondere Gegner/Sonstige/Iotas.md",
-    "Besondere Gegner/Namentlich genannte/Schattendrache.md",
-    "Besondere Gegner/Namentlich genannte/Marth Everant.md",
-    "Besondere Gegner/Namentlich genannte/Klezorg Retch.md",
-    "Besondere Gegner/Namentlich genannte/Anführer des Kult des einen Willens.md",
     "WegfelsMap.png",
-    "Wichtige Ereignisse/3. Die Infiltration des Kultistenlagers.md",
     "Wichtige Ereignisse/2. Der Überraschungsangriff der Kultisten.md",
     "Welten/Tenebris.md",
     "Welten/Luxara.md",
@@ -204,7 +205,6 @@
     "Party/Eldric Keth.md",
     "Party/Furzl.md",
     "Party/Drogan.md",
-    "Party/Brogron.md",
     "Wichtige Items",
     "Private",
     "Fights",
