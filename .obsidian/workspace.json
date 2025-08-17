@@ -11,12 +11,14 @@
             "id": "a33a81ca2ceeef7d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Map_Zwillingswelten.jpg"
+                "file": "Orte/Straße des Goldes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Map_Zwillingswelten"
+              "icon": "lucide-file",
+              "title": "Straße des Goldes"
             }
           }
         ]
@@ -176,8 +178,9 @@
   },
   "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
-    "WegfelsMap.png",
     "Map_Zwillingswelten.jpg",
+    "Orte/Straße des Goldes.md",
+    "WegfelsMap.png",
     "NPC/Wegfels/Bormino Eisensplitter.md",
     "Wichtige Ereignisse/5. Die Einberufung des Rats.md",
     "Magie/Arkanzellen.md",
@@ -202,7 +205,6 @@
     "Welten/Luxara.md",
     "Party/Shade Vector.md",
     "Private/James von Millerstone.md",
-    "Party/Kharad.md",
     "Wichtige Items",
     "Private",
     "Fights",
