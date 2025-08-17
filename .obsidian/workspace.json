@@ -11,14 +11,12 @@
             "id": "a33a81ca2ceeef7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Magie/Arkanzellen.md",
-                "mode": "source",
-                "source": false
+                "file": "WegfelsMap.png"
               },
-              "icon": "lucide-file",
-              "title": "Arkanzellen"
+              "icon": "lucide-image",
+              "title": "WegfelsMap"
             }
           }
         ]
@@ -178,6 +176,10 @@
   },
   "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
+    "Map_Zwillingswelten.jpg",
+    "NPC/Wegfels/Bormino Eisensplitter.md",
+    "Wichtige Ereignisse/5. Die Einberufung des Rats.md",
+    "Magie/Arkanzellen.md",
     "Magie/Arkane Magie.md",
     "Gruppen/Feindlich/Kult des einen Willens.md",
     "Gruppen/Feindlich/Eisenwurzeln.md",
@@ -189,7 +191,6 @@
     "Besondere Gegner/Namentlich genannte/Marth Everant.md",
     "Wichtige Ereignisse/3. Die Infiltration des Kultistenlagers.md",
     "Wichtige Ereignisse/4. Die nächtliche Überraschung.md",
-    "Wichtige Ereignisse/5. Die Einberufung des Rats.md",
     "Wichtige Ereignisse/1. Angriff des Kults auf Wegfels.md",
     "Party/Leonas Helios (der Inquisitor).md",
     "NPC/Wegfels/Alrik Nornfels.md",
@@ -202,9 +203,6 @@
     "Party/Shade Vector.md",
     "Private/James von Millerstone.md",
     "Party/Kharad.md",
-    "Party/Eldric Keth.md",
-    "Party/Furzl.md",
-    "Party/Drogan.md",
     "Wichtige Items",
     "Private",
     "Fights",
