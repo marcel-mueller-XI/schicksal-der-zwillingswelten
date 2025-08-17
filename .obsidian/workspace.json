@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "WegfelsMap.png"
+                "file": "Map_Zwillingswelten.jpg"
               },
               "icon": "lucide-image",
-              "title": "WegfelsMap"
+              "title": "Map_Zwillingswelten"
             }
           }
         ]
@@ -174,10 +174,10 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "b0a0379376574e32",
+  "active": "a33a81ca2ceeef7d",
   "lastOpenFiles": [
-    "Map_Zwillingswelten.jpg",
     "WegfelsMap.png",
+    "Map_Zwillingswelten.jpg",
     "NPC/Wegfels/Bormino Eisensplitter.md",
     "Wichtige Ereignisse/5. Die Einberufung des Rats.md",
     "Magie/Arkanzellen.md",
